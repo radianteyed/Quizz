@@ -1,7 +1,7 @@
 * {
     
     font-family: sans-serif;
-    font-size: 30px;
+    
     margin: 0;
    
 }
@@ -13,4 +13,11 @@ body {
     text-align: center;
     background: lightblue;
     
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 14px;
+
 }
